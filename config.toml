@@ -1,0 +1,23 @@
+baseurl = "http://softwaredevelopmentinchicago.com/"
+languageCode = "en-us"
+title = "Software Development in Chicago"
+theme = "hugo-uno"
+
+contentdir = "content"
+publishdir = "public"
+builddrafts = false
+canonifyurls = true
+author = "Zeljko Dakic"
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+
+[Params]
+  AuthorName = "Zeljko"
+  github = "desireco"
+  flickr = "85743586@N00"
+  twitter = "desireco"
+  email = "zeljko@gmail.com"
+  description = "Software developer in search of true challenges and happines"
+  cv = "http://desireco.github.io/"
+  linkedin = "desireco"
+  cover = "/images/kids.jpg"
+  logo = "/images/zeljko.jpg"
