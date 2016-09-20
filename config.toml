@@ -1,7 +1,7 @@
 baseurl = "http://softwaredevelopmentinchicago.com/"
 languageCode = "en-us"
 title = "Software Development in Chicago"
-theme = "hugo-uno"
+theme = "hugo_theme_beg"
 
 contentdir = "content"
 publishdir = "public"
@@ -9,6 +9,7 @@ builddrafts = false
 canonifyurls = true
 author = "Zeljko Dakic"
 copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+paginate = 3
 
 [Params]
   AuthorName = "Zeljko"
@@ -19,5 +20,5 @@ copyright = "This work is licensed under a Creative Commons Attribution-ShareAli
   description = "Software developer in search of true challenges and happines"
   cv = "http://desireco.github.io/"
   linkedin = "desireco"
-  cover = "/images/kids.jpg"
+  cover = ""
   logo = "/images/zeljko.jpg"
