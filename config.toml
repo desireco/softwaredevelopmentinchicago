@@ -1,7 +1,7 @@
 baseurl = "http://softwaredevelopmentinchicago.com/"
 languageCode = "en-us"
 title = "Software Development in Chicago"
-theme = "beg"
+theme = "after-dark"
 
 contentdir = "content"
 publishdir = "public"
