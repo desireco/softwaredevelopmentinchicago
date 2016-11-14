@@ -9,7 +9,10 @@ builddrafts = false
 canonifyurls = true
 author = "Zeljko Dakic"
 copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
-paginate = 3
+paginate = 5
+enableRobotsTXT = true # Suggested, enable robots.txt file
+googleAnalytics = "" # Optional, add tracking Id for analytics
+SectionPagesMenu = "main about" # Enable menu system for lazy bloggers
 
 [Params]
   AuthorName = "Zeljko"
@@ -17,8 +20,28 @@ paginate = 3
   flickr = "85743586@N00"
   twitter = "desireco"
   email = "zeljko@gmail.com"
-  description = "Software developer in search of true challenges and happines"
   cv = "http://desireco.github.io/"
   linkedin = "desireco"
   cover = ""
   logo = "/images/zeljko.jpg"
+  description = "A personal blog of Zeljko Dakic, software developer in Chicago, in search of challenges and true happines"
+  author = "Zeljko Dakic" # Optional, controls author name display on posts
+  show_menu = true # Optional, set false to disable menu entirely
+  powered_by = false # Optional, set false to disable theme credits
+
+  [params.seo]
+    google_verify = "" # Optional, Google verification code
+    bing_verify = "" # Optional, Bing verification code
+    yandex_verify = "" # Optional, Yandex verification code
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    weight = 0
+    identifier = "home"
+    url = "/"
+  [[menu.main]]
+    name = "Posts"
+    weight = 1
+    identifier = "post"
+    url = "/post/"
