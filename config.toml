@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://psychologist-flare-83635.netlify.com"
 languageCode = "en-us"
 title = "Software Development in Chicago"
 theme = "hyde"
