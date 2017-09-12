@@ -1,7 +1,7 @@
 baseurl = "http://softwaredevelopmentinchicago.com/"
 languageCode = "en-us"
 title = "Software Development in Chicago"
-theme = "after-dark"
+theme = "hyde"
 
 contentdir = "content"
 publishdir = "public"
@@ -15,6 +15,9 @@ googleAnalytics = "" # Optional, add tracking Id for analytics
 SectionPagesMenu = "main about" # Enable menu system for lazy bloggers
 
 [Params]
+  themeColor = "theme-base-09"
+  layoutReverse = true
+
   AuthorName = "Zeljko"
   github = "desireco"
   flickr = "85743586@N00"
