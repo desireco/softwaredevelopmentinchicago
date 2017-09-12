@@ -1,4 +1,5 @@
 +++
+title = ""
 description = ""
 draft = true
 categories = [""]
