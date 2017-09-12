@@ -48,3 +48,9 @@ SectionPagesMenu = "main about" # Enable menu system for lazy bloggers
     weight = 3
     identifier = "github"
     url = "https://github.com/desireco"
+  [[menu.main]]
+    name = "GitHub"
+    weight = 3
+    identifier = "github"
+    url = "https://www.linkedin.com/in/desireco/"
+    
