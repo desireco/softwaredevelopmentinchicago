@@ -1,9 +1,8 @@
 +++
-date = "2017-09-12:03:20-05:00"
+title = "Netlify Impresses"
+date = "2017-09-12T03:20:00-05:00"
 description = "Netlify Impresses"
-draft = false
 categories = ["blog", "updates"]
-tags = ["", ""]
 +++
 
 
