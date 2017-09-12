@@ -1,6 +1,7 @@
 +++
 date = "2016-08-30T01:02:42-05:00"
 title = "Welcome to new site, welcome to Hugo"
+categories = ["blog", "updates"]
 
 +++
 
