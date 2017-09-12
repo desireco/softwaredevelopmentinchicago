@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software Development in Chicago</title>
-    <link>http://softwaredevelopmentinchicago.com/</link>
+    <link>/</link>
     <description>Recent content on Software Development in Chicago</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
     <lastBuildDate>Tue, 30 Aug 2016 01:02:42 -0500</lastBuildDate>
     
-	<atom:link href="http://softwaredevelopmentinchicago.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome to new site, welcome to Hugo</title>
-      <link>http://softwaredevelopmentinchicago.com/post/welcome/</link>
+      <link>/post/welcome/</link>
       <pubDate>Tue, 30 Aug 2016 01:02:42 -0500</pubDate>
       
-      <guid>http://softwaredevelopmentinchicago.com/post/welcome/</guid>
+      <guid>/post/welcome/</guid>
       <description>This is my new site. I went through a lot of false starts. Tried a lot of different tools to publish my thoughts, you would think I write a lot since I was obesessing so much about how to make it as easy as possible.
 Winner In the end, here we are, Hugo is the winner.
 It started with Middleman I started originally with Middleman. I got frustrated as theming took too much time and I wasn&amp;rsquo;t super focused to begin with.</description>
