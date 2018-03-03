@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Software Development in Chicago</title>
-    <link>https://softwaredevelopmentinchicago.com/</link>
-    <description>Recent content on Software Development in Chicago</description>
+    <title>Updates on Software Development in Chicago</title>
+    <link>https://softwaredevelopmentinchicago.com/categories/updates/</link>
+    <description>Recent content in Updates on Software Development in Chicago</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
     <lastBuildDate>Tue, 12 Sep 2017 03:20:00 -0500</lastBuildDate>
     
-	<atom:link href="https://softwaredevelopmentinchicago.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://softwaredevelopmentinchicago.com/categories/updates/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
