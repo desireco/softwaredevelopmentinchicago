@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 12 Sep 2017 03:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 03 Mar 2018 15:17:17 -0600</lastBuildDate>
     
 	<atom:link href="https://softwaredevelopmentinchicago.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Devengine Stalled</title>
+      <link>https://softwaredevelopmentinchicago.com/post/devengine_stalled/</link>
+      <pubDate>Sat, 03 Mar 2018 15:17:17 -0600</pubDate>
+      
+      <guid>https://softwaredevelopmentinchicago.com/post/devengine_stalled/</guid>
+      <description>My adventure with devEngine started really well, but after a while all activity just stupped, which really is sad, as this is great project. I tried several things to review it and but nothing seemed to work.
+From this perspective, it is obvious some of the issues I had, but nothing was really huge, for some reason we didn&amp;rsquo;t gain traction.
+For now it is stopped but I am working on some way to get it up and running again.</description>
+    </item>
     
     <item>
       <title>Netlify Impresses</title>
