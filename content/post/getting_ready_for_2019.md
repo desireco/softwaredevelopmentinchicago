@@ -2,7 +2,6 @@
 title: "Getting Ready For 2019"
 date: 2018-12-31T00:14:19-06:00
 description: "Preparing for 2019, old tech is new again."
-draft: true
 categories: ["blog", "updates"]
 ---
 
