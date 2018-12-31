@@ -49,6 +49,11 @@ SectionPagesMenu = "main about" # Enable menu system for lazy bloggers
     identifier = "github"
     url = "https://github.com/desireco"
   [[menu.main]]
+    name = "Twitter"
+    weight = 4
+    identifier = "twitter"
+    url = "https://twitter.com/desireco"
+  [[menu.main]]
     name = "LinkedIn"
     weight = 5
     identifier = "linkedin"
