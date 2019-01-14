@@ -9,3 +9,5 @@ draft: true
 # Design is watefall, development is iterative
 
 # Marketing to people should be continuous
+
+# How to be succesful online
