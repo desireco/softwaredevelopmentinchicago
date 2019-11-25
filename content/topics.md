@@ -11,3 +11,5 @@ draft: true
 # Marketing to people should be continuous
 
 # How to be succesful online
+
+# why people will not work in your startup/corporation
