@@ -1,9 +1,49 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://softwaredevelopmentinchicago.com/categories/blog/</loc>
+    <lastmod>2019-01-14T00:14:19-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://softwaredevelopmentinchicago.com/categories/</loc>
+    <lastmod>2019-01-14T00:14:19-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://softwaredevelopmentinchicago.com/post/2019-01-14_marketing_to_people_should_be_continious/</loc>
+    <lastmod>2019-01-14T00:14:19-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://softwaredevelopmentinchicago.com/post/</loc>
+    <lastmod>2019-01-14T00:14:19-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://softwaredevelopmentinchicago.com/</loc>
+    <lastmod>2019-01-14T00:14:19-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://softwaredevelopmentinchicago.com/categories/updates/</loc>
+    <lastmod>2019-01-14T00:14:19-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://softwaredevelopmentinchicago.com/post/2018-12-31_getting_ready_for_2019/</loc>
+    <lastmod>2018-12-31T00:14:19-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://softwaredevelopmentinchicago.com/post/devengine_stalled/</loc>
+    <lastmod>2018-03-03T15:17:17-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://softwaredevelopmentinchicago.com/topics/</loc>
     <lastmod>2018-03-03T15:17:17-06:00</lastmod>
   </url>
   
@@ -18,38 +58,7 @@
   </url>
   
   <url>
-    <loc>https://softwaredevelopmentinchicago.com/categories/blog/</loc>
-    <lastmod>2018-03-03T15:17:17-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://softwaredevelopmentinchicago.com/categories/</loc>
-    <lastmod>2018-03-03T15:17:17-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://softwaredevelopmentinchicago.com/post/</loc>
-    <lastmod>2018-03-03T15:17:17-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://softwaredevelopmentinchicago.com/</loc>
-    <lastmod>2018-03-03T15:17:17-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://softwaredevelopmentinchicago.com/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://softwaredevelopmentinchicago.com/categories/updates/</loc>
-    <lastmod>2018-03-03T15:17:17-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>

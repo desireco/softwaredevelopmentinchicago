@@ -1,16 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Software Development in Chicago</title>
+    <title>blog on Software Development in Chicago</title>
     <link>https://softwaredevelopmentinchicago.com/categories/blog/</link>
-    <description>Recent content in Blog on Software Development in Chicago</description>
+    <description>Recent content in blog on Software Development in Chicago</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
-    <lastBuildDate>Sat, 03 Mar 2018 15:17:17 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jan 2019 00:14:19 -0600</lastBuildDate>
     
 	<atom:link href="https://softwaredevelopmentinchicago.com/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Marketing to people should be continuous</title>
+      <link>https://softwaredevelopmentinchicago.com/post/2019-01-14_marketing_to_people_should_be_continious/</link>
+      <pubDate>Mon, 14 Jan 2019 00:14:19 -0600</pubDate>
+      
+      <guid>https://softwaredevelopmentinchicago.com/post/2019-01-14_marketing_to_people_should_be_continious/</guid>
+      <description> Marketing to people should be continuous  old fashion marketing required you to put ads on tv and papers there should be a better way, more continous way advertising lets you have your ads permanently present yes social media efforts require a lot of effort to do things right solution for marketing on social media at scale  </description>
+    </item>
+    
+    <item>
+      <title>Getting Ready For 2019</title>
+      <link>https://softwaredevelopmentinchicago.com/post/2018-12-31_getting_ready_for_2019/</link>
+      <pubDate>Mon, 31 Dec 2018 00:14:19 -0600</pubDate>
+      
+      <guid>https://softwaredevelopmentinchicago.com/post/2018-12-31_getting_ready_for_2019/</guid>
+      <description>New year is coming tomorrow. A lot of great things are ahead of me.
+Independence streak This all started sometime 2017, in March, then this whole year was awesome, I worked in Elm, developed two products. Had great summer, observed Eclipse.
+Joining big org Then near the end, I joined Allstate. This got me into really cool and interesting organization. Sometime in November this year, I joined Arity, which is Allstate company focused on using data to enhance our mobility.</description>
+    </item>
     
     <item>
       <title>Devengine Stalled</title>
